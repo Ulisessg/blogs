@@ -116,7 +116,9 @@ Por el contrario el SSR se encarga de generar todo el contenido del sitio y nos 
 
 2. SEO
 
-El proceso por el cual los motores de búsqueda encuentran nuestras aplicaciones es: Primero abren nuestro sitio sin ejecutar JavaScript para ver su contenido, buscar palabras clave, buscar enlaces y luego de un buen tiempo (que depende del motor de búsqueda) se ejecuta JavaScript, este tiempo no está definido e incluso puede que nunca se realice ya que algunos motores de búsqueda **NO** pueden ejecutar JavaScript, esto es problemático si utilizamos React, Angular ó Vue.js ya que puede que el motor de búsqueda nunca podrá ver el contenido de nuestro sitio.
+A pesar de que Google sí ejecuta JavaScript al momento de rastrear páginas, no todos los motores funcionan de la misma manera.
+
+El proceso por el cual los motores de búsqueda encuentran nuestras aplicaciones es: Primero abren nuestro sitio sin ejecutar JavaScript para ver su contenido, buscar palabras clave, buscar enlaces y luego de un tiempo (que depende del motor de búsqueda) se ejecuta JavaScript, este tiempo no está definido e incluso puede que nunca se realice ya que algunos motores de búsqueda **NO** pueden ejecutar JavaScript, esto es problemático si utilizamos React, Angular ó Vue.js ya que puede que el motor de búsqueda nunca podrá ver el contenido de nuestro sitio.
 
 La ventaja de SSR es que los motores desde el principio pueden acceder al contenido del sitio y así rastrearlo mucho mejor y posicionarlo por encima de otros sitios.
 
