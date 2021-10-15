@@ -1,22 +1,20 @@
-# La ciencia y la historia en defensa de las personas trans
+# En defensa de las personas trans
 
-**Con este post pretendo no solo desmitificar algunos mitos sobre las personas trans, también pretendo explicar algunos conceptos mal entendidos sobre la sexualidad humana.**
+**Con este post pretendo desmitificar algunos mitos sobre las personas trans y explicar algunos conceptos mal entendidos sobre la sexualidad humana.**
 
 El término **trans** es un término que engloba a las personas cuya identidad, expresión de género o conducta no se ajusta a la asociada al género con el que nacieron.
 
-Dicho con palabras más sencillas, una persona trans es aquella que su forma de vestir, comportamiento, y/o características físicas que tiene al nacer no se ajustan a lo que esa persona desea (desean cambiar el género que les fue asignado al nacer).
-
-**Esto es un tema extenso por lo que si quieres expandir más lo que hablo o comprobarlo puedes consultar TODAS las fuentes que utilicé al final del artículo.**
+**Esto es un tema extenso por lo que si quieres expandir más lo que hablo o comprobarlo _puedes consultar TODAS las fuentes que utilicé al final del artículo._**
 
 ## No todo son los cromosomas XX y XY
 
 Suele pensarse que si una persona tiene cromosomas XX la persona va a desarrollar características sexuales de una hembra y si tiene cromosomas XY va a desarrollar características sexuales de macho.
 
-Sin embargo en el desarrollo humano de las características sexuales primarias y secundarias no solo interviene el ADN, también interviene la **testosterona**, los receptores de hormonas o incluso la **[Hiperplasia suprarrenal congénita](https://medlineplus.gov/spanish/ency/article/000411.htm)**, entre muchos factores más.
+Sin embargo en el desarrollo humano de las características sexuales primarias y secundarias no solo interviene el ADN, también interviene la **testosterona**, **los estrogenos**, los receptores de dichas hormonas o incluso la **[Hiperplasia suprarrenal congénita](https://medlineplus.gov/spanish/ency/article/000411.htm)** puede interferir, entre muchos factores más.
 
-Esto hace posible que una persona con vulva tenga testículos o que una persona con testículos tenga tejido ovárico y un sin fin de posibles combinaciones de gónadas (sin importar si son internas o externas).
+Esto hace posible que una persona con vulva tenga testículos o que una persona con testículos tenga tejido ovárico, o incluso desarrollar un pene y vagina al mismo tiempo, y un sin fin de posibles combinaciones de gónadas y caracteristicas (tanto internas o externas).
 
-Además de esto, los seres humanos tenemos múltiples variaciones de los cromosomas, como lo puede ser:
+Además, los seres humanos podemos tener múltiples variaciones de los cromosomas, como lo puede ser:
 
 - XO: Solo presentar un cromosoma X.
 
@@ -26,13 +24,13 @@ Además de esto, los seres humanos tenemos múltiples variaciones de los cromoso
 
 - XYY: Se cuenta con un cromosoma Y extra.
 
-A las personas que presentan estas características son llamadas _**intersexuales**_ (mal llamadas hermafroditas).
+A las personas que de nacimiento presentan características no binarias son llamadas _**intersexuales**_(no confundir con el hermafroditismo)
 
-Basarse en qué cromosomas o qué características sexuales tiene cada persona para determinar su género o su rol en la sociedad no es algo que se preste para decir _"esto es de hombre"_ o _"esto es de mujer"_, ya que hay múltiples y diferentes configuraciones que se pueden tener, no solo de los cromosomas, sino también de los receptores de hormonas, generadores de hormonas, e incluso esto está influido por el historial médico de los progenitores.
+Basarse en qué cromosomas o qué características sexuales tiene cada persona para determinar su género o su rol en la sociedad no es algo que se preste para decir _"esto es de hombre"_ o _"esto es de mujer"_, ya que hay múltiples y diferentes configuraciones que se pueden tener, no solo de los cromosomas, sino también de los receptores de hormonas, generadores de hormonas, e incluso esto puede ser influido por el historial médico de los progenitores.
 
 ## Sexo, género e identidad de género NO son lo mismo
 
-Es común pensar que el género el género humano es binario y solo existen 2 formas de expresarlo, todo esto determinado por tus características físicas o genéticas, sin embargo el género es un concepto mal entendido a veces.
+Es común pensar que el género es binario y solo existen 2 formas de expresarlo, todo esto determinado por tus características físicas o genéticas, sin embargo el género es un concepto mal entendido a veces.
 
 Es un error muy común utilizar las palabras **sexo** y **género** como sinónimos, sin embargo tienen una gran diferencia.
 
@@ -48,7 +46,7 @@ Por lo que el género hace referencia a los **atributos, las actividades, las co
 
 Por su lado el género en la **biología** se utiliza para agrupar diferentes organismos con características similares.
 
-Específicamente **el género se ubica entre la familia y la especie** por lo que agrupa a varias especies que están emparentadas (o en ocasiones solo una especie).
+Específicamente **el género agrupa a diferentes especies que tienden a reproducirse entre si y crean descendencia fértil**
 
 - Sexo:
 
@@ -67,7 +65,7 @@ Los roles de género pueden observarse comúnmente en varios aspectos como lo pu
 
 Donde se percibe que un hombre no puede utilizar faldas, tacones o vestidos o que una mujer no puede usar traje y corbata.
 
-Sin embargo las normas de vestimenta hay cambiado mucho a lo largo de la historia y las culturas.
+Sin embargo las normas de vestimenta han cambiado mucho a lo largo de la historia y las culturas.
 
 Por ejemplo y aunque parezca extraño **las mujeres no siempre pudieron utilizar pantalones**, no fue hasta el siglo pasado que los pantalones fueron utilizados por mujeres luego de una larga lucha, sufriendo incluso que no les permitieran entrar a sitios como escuelas.
 
@@ -75,23 +73,21 @@ Hoy en día se nos hace ridículo que se le prohíba a una mujer utilizar pantal
 
 Otro ejemplo es **el uso de faldas y tacones por los hombres.**
 
-Al inicio los tacones tuvieron un uso práctico (acomodar mejor los pies en el caballo), luego pasaron a ser considerado de alguien de alto status y luego de la revolución francesa fueron satanizados por ser considerados como algo de la burguesía.
+Al inicio los tacones tuvieron un uso práctico (acomodar mejor los pies en un caballo), luego pasaron a ser considerado de alguien de alto status y luego de la revolución francesa fueron satanizados por ser considerados como algo de la burguesía.
 
-Antes de la revolución francesa eran utilizados tanto por hombres como por mujeres, luego de ser mal vistos fueron más comúnmente utilizados por mujeres.
+Antes de la revolución francesa eran utilizados tanto por hombres como por mujeres.
 
   - El mundo laboral:
 
-Donde se percibe que las mujeres deben estar relegadas a labores del hogar o como mucho ser parte de las labores administrativas y los hombres deben realizar el trabajo sucio y peligroso.
+Donde se percibe que las mujeres deben estar relegadas a labores del hogar o como mucho ser parte de las labores administrativas y los hombres deben realizar el trabajo sucio y peligroso. 
 
   - La economía:
 
 Esto está algo relacionado con el punto anterior, a esto se le suma la imposición de que _los hombres tienen la obligación de ser proveedores de recursos y las mujeres no pueden generar los propios._
 
-Estos roles deberían ser cambiados además de no ser impuestos en características sino en la decisión personal y el acuerdo con otras personas.
+Evidentemente estos roles han cambiado siempre a lo largo de la historia y varían entre las culturas, por ejemplo en Japón es la norma que la mujer sea quien lleva a cabo la administración de la economía del hogar, lo que significa que **TODO** el dinero del hogar solo puede pasar por las manos de la mujer.
 
-Evidentemente estos roles han cambiado siempre a lo largo de la historia y varían entre las culturas, por ejemplo en Japón es la norma que la mujer sea quien lleva a cabo la administración de la economía del hogar, lo que significa que **TODO** el dinero del hogar solo puede pasar por las manos de la esposa.
-
-Esto hace mucho contraste con la forma en la que acostumbramos ver, en el que cada persona maneja su dinero (al menos en la mayoría de casos).
+Esto hace mucho contraste con la forma en la que acostumbramos ver, en el que cada persona maneja su dinero.
 
 - Identidad de género
 
@@ -100,6 +96,9 @@ La identidad de género **es la forma particular en la que usamos la vestimenta,
 Cada persona va a expresar su identidad de género como mejor le parezca y esto es algo que puede cambiar a lo largo de la vida de una persona.
 
 ## Ser trans no es una moda
+
+
+**Las personas trans siempre han existido**, la gran diferencia es que ahora las personas trans y LGBT+ son más visibilizadas gracias al internet y a la despatologizacin de su vida, además de la eliminación del estigma que existe sobre ellas.
 
 Existen múltiples ejemplos de personas trans a lo largo de la historia y diferentes sociedades (tanto antiguas como actuales), como lo son:
 
@@ -118,13 +117,12 @@ Existen múltiples ejemplos de personas trans a lo largo de la historia y difere
 
 - Las Hijras<br/><br/>
 
-	Las Hijras son las personas transgénero de la cultura de la India, son consideradas el tercer género dentro de la cultura.
+	Las Hijras son las personas transgénero de la cultura de la India, son consideradas el tercer género dentro de su cultura.
 
 - Chevalier d'Éon<br/><br/>
 
-	Fue una enigmática espía, ​ diplomática y militar francés al servicio de Luis XV que vivió como hombre de 1728 y a partir de 1777 se reafirmó como mujer.
+	Fue una enigmática espía, ​ diplomática y militar de Francia al servicio de Luis XV que vivió como hombre de 1728 y a partir de 1777 se reafirmó como mujer.
 
-**Las personas trans siempre han existido**, la gran diferencia es que ahora las personas trans y LGBT+ son más visibilizadas gracias al internet y a la despatologizacin de su vida, además de la eliminación del estigma que existe sobre ellas.
 
 > Recuerda que puedes encontrar toda la bibliografía al final del post, esto solo es una introducción.
 
@@ -132,7 +130,7 @@ Existen múltiples ejemplos de personas trans a lo largo de la historia y difere
 
 **Me parece interesante cómo a pesar de que la salud mental es un tabú y algo poco entendido por muchas personas aun así se den la libertad de utilizar conceptos como 'trastornos mentales' para denigrar a las personas de la comunidad LGBT+.**
 
-Aun hoy en día es difícil determinar qué es un trastorno y qué no lo es.
+Aun hoy en día es difícil determinar qué es un trastorno y qué no lo es y existen múltiples formas de hacerlo.
 
 La forma más aceptada para considerar que algo es un trastorno o una enfermedad de la salud mental se debe cumplir con lo siguiente:
 
@@ -141,6 +139,8 @@ La forma más aceptada para considerar que algo es un trastorno o una enfermedad
 	Estos síntomas pueden generar angustia, miedo, estrés, tristeza, entre otros.
 
 	Siempre hay que tomar en cuenta que los malos sentimientos pueden ser provocados por razones culturales como lo puede ser la discriminación, que provoca angustia en quien la vive y es impulsada por lo que es considerado 'normal' por quien la ejerce.
+	
+	En ese caso los sintomas no pueden ser considerados parte de un trastorno
 
 
 2. Los síntomas persisten con el tiempo.<br /><br />
@@ -149,7 +149,7 @@ La forma más aceptada para considerar que algo es un trastorno o una enfermedad
 
 	Sin embargo en personas con un trastorno los síntomas persisten por los años.
 
-	Por ejemplo, las personas con TDAH suelen tener problemas para mantener la concentración en una sola actividad, esto podemos padecerlo en algún punto de nuestra vida, sin embargo las personas con TDAH han tenido esto a lo largo de su vida como una constante.
+	Por ejemplo, las personas con TDAH solemos tener problemas para mantener la concentración en una sola actividad, esto lo puede padecer cualquiera en algún punto de su vida, sin embargo las personas con TDAH hemos tenido esto a lo largo de nuestra vida como una constante.
 
 	Este punto me gusta resumirlo en: _**"Una tos no es diagnóstico de neumonía y tener un mal día puede no ser una constante."**_
 
@@ -160,9 +160,9 @@ Si utilizamos la definición exacta de trastorno del DSM-5 esta sería:
 > Una respuesta esperada o aprobada culturalmente a un factor estresante o una pérdida común, como la muerte de un ser querido, no es un trastorno mental. El comportamiento socialmente desviado (p. ej., Político, religioso o sexual) y los conflictos que son principalmente entre el individuo y la sociedad no son trastornos mentales a menos que la desviación o el conflicto resulte de una disfunción en el individuo, como se describe anteriormente.
 
 
-Las personas trans simplemente **son personas disconformes con su género asignado al nacer**, esto no implica que esta inconformidad les impida continuar con una vida normal (pre o post transición).
+Las personas trans simplemente **son personas disconformes con su género asignado al nacer**, esto no implica que esta inconformidad les impida continuar con una vida normal (pre, post o durante la transición).
 
-Aún con todo esto, lo que más ha impedido que las personas trans puedan continuar con su vida normal es la discriminación, bula y odio que reciben día a día.
+Aún con todo esto, lo que más ha impedido que las personas trans puedan continuar con su vida normal es la discriminación, las burlas y odio que reciben día a día.
 
 ### Disforia de género
 
@@ -173,25 +173,25 @@ La identidad transgénero no es un desorden o trastorno, lo es la disforia, y **
 
 ## Las personas trans NO odian su cuerpo
 
-Existe la idea errónea de que TODAS las personas trans quieren cambiar los genitales que tienen, **pero esto es falso**, cada persona puede realizar solo 1, muchas o ninguna de las siguientes acciones:
+Existe la idea errónea de que TODAS las personas trans quieren cambiar sus genitales o que odian su cuerpo, **pero esto es falso**, cada persona puede llegar a realizar una, muchas o ninguna de las siguientes acciones para transicionar:
 
+
+- Cambiar su nombre.
 
 - Cambiar su manera de vestir.
 
 - Cambiar las actividades que realiza por las estereotípicamente aceptadas para otro género.
 
-- Cambiar su manera de presentarse.
+- Cambiar su tono de voz.
 
-- Pedir que sus pronombres sean el/ella/elle.
-
-- Cambiar su nombre legalmente.
+- Pedir que sus pronombres sean el/ella/elle u otros.
 
 - Terapias hormonales.
 
 - Cirugías.
 
 
-Ninguna persona hace su transición de la misma manera y ninguna es 'la forma correcta'.
+**Ninguna persona hace su transición de la misma manera y ninguna es 'la forma correcta'.**
 
 Además, no existe ningún problema en modificar tu cuerpo si así lo decides, hay muchas acciones que están normalizadas que modifican el cuerpo de una persona, como lo puede ser:
 
@@ -199,7 +199,7 @@ Además, no existe ningún problema en modificar tu cuerpo si así lo decides, h
 
 - Las cirugías plásticas reconstructivas.
 
-- Las circuncisiones al nacer (sin su consentimiento y sin motivo médico).
+- Las circuncisiones al nacer (sin motivo médico).
 
 - Las cirugías a las que son sometidas las personas intersexuales al nacer (sin su consentimiento).
 
